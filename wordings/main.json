@@ -1,0 +1,31 @@
+{
+    "intro": {
+        "head": ["NFT", "RARE", "DREAMERS"],
+        "title": "BRAVE SERIES \nNFT PLAN",
+        "coming_soon": "COMING SOON",
+        "datetime": "2021/09/30 13:00",
+        "percent": "1/100000",
+        "free": "GET FREE DROP"
+    },
+    "reserve": {
+        "head_front": "勇者系列",
+        "head_end": "Fandora",
+        "title": "最強聯名計畫 跨次元啟動倒數",
+        "info": {
+            "title": "九月限時空投 | 事前預約抽選",
+            "step1": "9.30 前加入 Fandora×勇者系列 官方 ",
+            "discord": "Discord 交流群",
+            "discord_link": "https://go.fandora.co/discordbrave",
+            "step2": "於頻道 <b>#brave-勇者系列</b> 中發送指定訊息：「NFT公仔都給我來一份！」",
+            "step3": "完成後可獲得抽選總價值NT $66,666 以上的極稀有公仔同捆NFT的抽獎資格，抽獎名單將於2021.10.01公開。",
+            "note": "* 公仔同捆NFT為全球限量發行，最稀有款式數量僅有5個",
+            "reserve": "事前預約抽選",
+            "reserve_link": "https://go.fandora.co/discordbrave"
+        }
+    },
+    "footer": {
+        "facebook": "https://www.facebook.com/fandorashop/",
+        "discord": "https://go.fandora.co/discordbrave",
+        "copyright": "Copyright© Fandora Shop All Rights Reserved"
+    }
+}
