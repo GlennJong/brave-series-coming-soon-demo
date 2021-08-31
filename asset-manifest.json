@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "http://brave-series-coming-soon.glenn.tw/static/js/main.b946b655.chunk.js",
-    "main.js.map": "http://brave-series-coming-soon.glenn.tw/static/js/main.b946b655.chunk.js.map",
+    "main.js": "http://brave-series-coming-soon.glenn.tw/static/js/main.bb690a36.chunk.js",
+    "main.js.map": "http://brave-series-coming-soon.glenn.tw/static/js/main.bb690a36.chunk.js.map",
     "runtime-main.js": "http://brave-series-coming-soon.glenn.tw/static/js/runtime-main.a9fe6921.js",
     "runtime-main.js.map": "http://brave-series-coming-soon.glenn.tw/static/js/runtime-main.a9fe6921.js.map",
     "static/js/2.f970b438.chunk.js": "http://brave-series-coming-soon.glenn.tw/static/js/2.f970b438.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.a9fe6921.js",
     "static/js/2.f970b438.chunk.js",
-    "static/js/main.b946b655.chunk.js"
+    "static/js/main.bb690a36.chunk.js"
   ]
 }
